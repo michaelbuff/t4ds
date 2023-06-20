@@ -1,7 +1,7 @@
 ---
 title: How to Topologize
 layout: post
-post-image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Konigsberg_bridges.png"
+post-image: "https://en.wikipedia.org/wiki/Main_Page#/media/File:C751A_depot.jpg"
 description: A light and fast introduction to the pure math subject of topology, and its computational interface.
 tags:
 - topology
