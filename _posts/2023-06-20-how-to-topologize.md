@@ -15,12 +15,10 @@ tags:
 ---
 ## Overview
 
+Here's a sentence with a footnote. [^1]
 
+[^1]: This is the footnote.
 
-***Objectives***: After this session, we hope you will be able to:
-> - Define "shape"
-> - Describe topological and geometric properties of a space/shape
-> - Explain how to represent data as a complex
 
 ---
 ## 1. Getting Started
